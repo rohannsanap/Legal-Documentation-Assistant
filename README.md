@@ -99,8 +99,9 @@ Explore the deployed website here: <a href="https://legal-documentation-assistan
 
 Clone the project by typing the following command in your Terminal/CommandPrompt
 
+
 ```
-git clone https://github.com/PritK99/Legal-Documentation-Assistant.git
+https://github.com/rohannsanap/Legal-Documentation-Assistant
 ```
 Navigate to the Legal Documentation Assistant folder
 
@@ -238,5 +239,4 @@ python app.py
 ## References
 - [LawRato](https://lawrato.com/legal-documents) for the dataset of legal documents.
 
-## License
-[MIT License](https://opensource.org/licenses/MIT)
+
