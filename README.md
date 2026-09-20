@@ -99,9 +99,8 @@ Explore the deployed website here: <a href="https://legal-documentation-assistan
 
 Clone the project by typing the following command in your Terminal/CommandPrompt
 
-
 ```
-https://github.com/rohannsanap/Legal-Documentation-Assistant
+git clone https://github.com/rohannsanap/Legal-Documentation-Assistant.git
 ```
 Navigate to the Legal Documentation Assistant folder
 
